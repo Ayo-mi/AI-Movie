@@ -1,0 +1,13 @@
+VIDEO ASSEMBLY INSTRUCTIONS
+==============================
+
+1. Image file: scene_image.png
+2. Dialogue audio: None
+3. Music audio: placeholder_music.mp3
+
+To create the final video:
+- Use a video editor like DaVinci Resolve, Premiere Pro, or even online tools
+- Import the image and set it as the video track
+- Import the dialogue audio and sync it with the image
+- Add the music as background audio (lower volume)
+- Export as MP4
